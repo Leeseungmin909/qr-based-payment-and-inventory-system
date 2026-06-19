@@ -1,0 +1,4 @@
+/* 주문/환불 관리 페이지 전용 (공통: admin-common.css) */
+.btn-refund { background-color: #17a2b8; color: white; cursor: pointer; }
+.btn-refunded { background-color: #6c757d; color: white; cursor: not-allowed; }
+.btn-detail { background-color: #007bff; color: white; cursor: pointer; }
