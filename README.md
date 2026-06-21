@@ -41,11 +41,11 @@
 
 ## 시스템 설계
 
-**[유스케이스 다이어그램]** — 관리자(상품 관리·QR 발급·주문/환불), 소비자(QR 담기·장바구니·결제)의 역할 구분
+**[유스케이스 다이어그램]** 
 
 ![유스케이스](images/usecase.png)
 
-**[ERD]** — `Product` · `Purchase` · `PurchaseItem`의 관계 (주문 1 : N 주문항목 N : 1 상품)
+**[ERD]** 
 
 ![ERD](images/erd.png)
 
